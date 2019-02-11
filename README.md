@@ -1,8 +1,8 @@
 
 
-# [Introduction to version control with Git](https://coderefinery.github.io/git-intro/)
+# [Version control with Git for a single developer](https://coderefinery.github.io/git-solo/)
 
-- [Credit and license](https://coderefinery.github.io/git-intro/license/)
+- [Credit and license](https://coderefinery.github.io/git-solo/license/)
 
 
 ## Local development
