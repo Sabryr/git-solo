@@ -1,5 +1,5 @@
-fork_me_ribbon_url: https://github.com/coderefinery/git-intro
-title: "Git introduction"
+fork_me_ribbon_url: https://github.com/coderefinery/git-solo
+title: "Git for the solo developer"
 start_time: 570  # 9:30
 
 # where things are
@@ -46,7 +46,7 @@ excerpt_separator: "\n\n"
 detach: false
 port: 4000
 host: 127.0.0.1
-baseurl: "/git-intro"
+baseurl: "/git-solo"
 
 # outputting
 timezone: null
